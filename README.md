@@ -26,7 +26,6 @@ A full-stack web application designed to streamline gym administration, member r
 - MongoDB connection URI
 
 ### Installation & Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/AbdullahAmir1562003/Gym-Management-System.git](https://github.com/AbdullahAmir1562003/Gym-Management-System.git)
-   cd Gym-Management-System
+1. Clone the repository to your local machine.
+2. Open terminal in the project folder and run: `npm install`
+3. Start the server by running: `npm start`
