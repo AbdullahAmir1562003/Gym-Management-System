@@ -30,7 +30,8 @@ A full-stack web application designed to streamline gym administration, member r
 
 ### ⚙️ Getting Started
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
-   git clone [https://github.com/AbdullahAmir1562003/Gym-Management-System.git](https://github.com/AbdullahAmir1562003/Gym-Management-System.git)
+   git clone https://github.com/AbdullahAmir1562003/Gym-Management-System.git
    cd Gym-Management-System
+   
