@@ -10,7 +10,7 @@ A full-stack web application designed to streamline gym administration, member r
 
 ---
 
-### 🌟 Key Features
+## 🌟 Key Features
 
 - **Member Management:** Secure registration, profile tracking, and membership status records.
 - **Subscription Tracking:** Automated plan monitoring, renewal cycles, and tier management.
@@ -19,7 +19,7 @@ A full-stack web application designed to streamline gym administration, member r
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
@@ -28,10 +28,10 @@ A full-stack web application designed to streamline gym administration, member r
 
 ---
 
-### ⚙️ Getting Started
+## ⚙️ Getting Started
 
-**Clone the repository:**
-   ```bash
-   git clone https://github.com/AbdullahAmir1562003/Gym-Management-System.git
-   cd Gym-Management-System
-   
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/AbdullahAmir1562003/Gym-Management-System.git
+cd Gym-Management-System
