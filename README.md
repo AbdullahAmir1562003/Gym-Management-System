@@ -1,31 +1,36 @@
-# Gym Management System
+<div align="center">
 
-A full-stack web application designed to streamline gym administration, member registrations, and membership tracking.
+# 🏋️ Gym Management System
+
+A full-stack web application designed to streamline gym administration, member registrations, and subscription lifecycle tracking.
+
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## Tech Stack
+### 🌟 Key Features
+
+- **Member Management:** Secure registration, profile tracking, and membership status records.
+- **Subscription Tracking:** Automated plan monitoring, renewal cycles, and tier management.
+- **Administrative Control:** Dedicated dashboard to supervise operations, attendance, and member data.
+- **RESTful API Services:** Structured backend endpoints for efficient CRUD operations and data handling.
+
+---
+
+### 🛠️ Tech Stack
+
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Frontend:** HTML5, CSS3, JavaScript
+- **Architecture:** MVC / RESTful API
 
 ---
 
-## Key Features
-- Member registration and profile management
-- Subscription plan tracking and renewal status
-- Administrative dashboard for gym operations
-- RESTful API endpoints for handling data workflows
+### ⚙️ Getting Started
 
----
-
-## Getting Started
-
-### Prerequisites
-- Node.js installed locally
-- MongoDB connection URI
-
-### Installation & Run
-1. Clone the repository to your local machine.
-2. Open terminal in the project folder and run: `npm install`
-3. Start the server by running: `npm start`
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/AbdullahAmir1562003/Gym-Management-System.git](https://github.com/AbdullahAmir1562003/Gym-Management-System.git)
+   cd Gym-Management-System
